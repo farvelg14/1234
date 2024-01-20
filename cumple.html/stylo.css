@@ -1,0 +1,30 @@
+*{font-family: 'Belanosima', sans-serif;}
+.sus1{background-color:#1ecfff;
+	font-size: 30px;
+	display: inline-block;
+	margin: 25px;
+padding-left:15px ;
+text-align: left;
+height: 20vh; width:96vw;
+display:block  ;
+position:relative ;
+top:-20px; left:-29px;
+outline:5px inset #224989;   }    
+.sus2{font-size:35px;color: black ;background-color:#1ecfff;
+display:inline-block; 
+position: relative;
+top:-215px; right:-860px;}
+.sus3{background-color:#1ecfff; 
+font-size:35px; 
+color: black;
+display: inline-block;
+position: relative;
+top:-256px; right:-1000px}
+.sus4{position:relative;
+top:-200px; left: 450px;}
+.sus5{position: relative;
+top:-605px; right:-405px; width:40px; height: 35px}
+
+
+
+     
